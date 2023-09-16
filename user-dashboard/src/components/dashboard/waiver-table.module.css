@@ -1,0 +1,25 @@
+/* waiver-table.module.css */
+.actions-column {
+    text-align: center;
+}
+
+.delete-button {
+    margin-top: 0;
+}
+
+.signature-container {
+    text-align: center;
+    padding: 0;
+}
+
+.signature {
+    background-color: #fff;
+    border-radius: 5px;
+    border: solid #000 1px;
+    max-height: 40px;
+    vertical-align: middle;
+}
+
+.not-checkedIn {
+    background-color: #ffbc7d;
+}
